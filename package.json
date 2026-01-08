@@ -1,0 +1,24 @@
+{
+  "name": "event-driven-architecture-kafka-kraft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KasunDissanayaka/event-driven-architecture-kafka-kraft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KasunDissanayaka/event-driven-architecture-kafka-kraft/issues"
+  },
+  "homepage": "https://github.com/KasunDissanayaka/event-driven-architecture-kafka-kraft#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "kafkajs": "^2.2.4"
+  }
+}
